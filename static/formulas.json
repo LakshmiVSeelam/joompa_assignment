@@ -1,0 +1,320 @@
+[
+  {
+      "exercise": "Squat",
+      "baseline_formula": " SQUATS * 1",
+      "fsc_formula": " BW/FSC ",
+      "type": "squats"
+  },
+  {
+      "exercise": "Sumo Squat",
+      "baseline_formula": " SQUATS *0.5",
+      "fsc_formula": " BW/FSC ",
+      "type": "squats"
+  },
+  {
+      "exercise": "Pistol Squat",
+      "baseline_formula": " SQUATS * 0.1",
+      "fsc_formula": " BW/FSC ",
+      "type": "squats"
+  },
+  {
+      "exercise": "Wall Sit",
+      "baseline_formula": " SQUATS/8",
+      "fsc_formula": " (BW/FSC) * 0.5 ",
+      "type": "squats"
+  },
+  {
+      "exercise": "Wall Sit",
+      "baseline_formula": " SQUATS/5",
+      "fsc_formula": " (BW/FSC)* (FSC/2)",
+      "type": "squats"
+  },
+  {
+      "exercise": "Split Squat (Glute)",
+      "baseline_formula": " SQUATS *0.4",
+      "fsc_formula": " (10/FSC)*(10/FSC)*3",
+      "type": "squats"
+  },
+  {
+      "exercise": "Split Squat (Quads)",
+      "baseline_formula": " SQUATS *0.35",
+      "fsc_formula": " (10/FSC)*(10/FSC)*2.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Front Foot Elevated Split Squat (Quads)",
+      "baseline_formula": " SQUATS *0.5",
+      "fsc_formula": " (10/FSC)*1.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Front Foot Elevated Split Squat (Glute)",
+      "baseline_formula": " SQUATS *0.6",
+      "fsc_formula": " (10/FSC)*1.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Rear Foot Elevated Split Squat (Quads)",
+      "baseline_formula": " SQUATS *0.5",
+      "fsc_formula": " (10/FSC)*1.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Rear Foot Elevated Split Squat (Glute)",
+      "baseline_formula": " SQUATS *0.6",
+      "fsc_formula": " (10/FSC)*1.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Stiff Knee Rear Foot Elevated Split Squat (Ham)",
+      "baseline_formula": " SQUATS *0.5",
+      "fsc_formula": " (10/FSC)*1.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Single Leg Romanian Deadlift",
+      "baseline_formula": " SQUATS *0.2",
+      "fsc_formula": " (10/FSC)*1.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Floor Hip Thrust",
+      "baseline_formula": " SQUATS *1.2",
+      "fsc_formula": " (10/FSC)*2",
+      "type": "squats"
+  },
+  {
+      "exercise": "Raised Hip Thrust",
+      "baseline_formula": " SQUATS *0.7",
+      "fsc_formula": " (10/FSC)*1.5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Raised Single Leg Hip Thrust",
+      "baseline_formula": " SQUATS *0.5",
+      "fsc_formula": " (10/FSC)",
+      "type": "squats"
+  },
+  {
+      "exercise": "Quadruped Hip Abductions",
+      "baseline_formula": " SQUATS *0.7",
+      "fsc_formula": " (10/FSC)",
+      "type": "squats"
+  },
+  {
+      "exercise": "Side Clamshells",
+      "baseline_formula": " SQUATS *0.7",
+      "fsc_formula": " (BW/30)* (FSC)",
+      "type": "squats"
+  },
+  {
+      "exercise": "Side-Lying Hip Adduction",
+      "baseline_formula": " SQUATS *1.2",
+      "fsc_formula": " (BW/FSC)* (1/2)",
+      "type": "squats"
+  },
+  {
+      "exercise": "Decline Full Push-ups",
+      "baseline_formula": " PUSHUPS *1.5",
+      "fsc_formula": " (10/FSC)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Raised Pike Push-ups",
+      "baseline_formula": " PUSHUPS *0.25",
+      "fsc_formula": " (10/FSC)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Incline Full Push-ups",
+      "baseline_formula": " PUSHUPS *0.6",
+      "fsc_formula": " (10/FSC)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Negative Full Push-ups",
+      "baseline_formula": " PUSHUPS *3",
+      "fsc_formula": " (10/FSC)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Hybrid Full Push-ups",
+      "baseline_formula": " PUSHUPS *1",
+      "fsc_formula": " (10/FSC)*5",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Wide Full Push-ups",
+      "baseline_formula": " PUSHUPS *0.8",
+      "fsc_formula": "(10/FSC)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Close Full Push-ups",
+      "baseline_formula": " PUSHUPS *0.8",
+      "fsc_formula": "(10/FSC)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Incline Elbow Extensions",
+      "baseline_formula": " PUSHUPS *0.9",
+      "fsc_formula": " (BW/FSC)* (1/FSC)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Kneeling Tricep Pushup",
+      "baseline_formula": " PUSHUPS *0.7",
+      "fsc_formula": " (BW/FSC)* (FSC/2)",
+      "type": "pushups"
+  },
+  {
+      "exercise": "Prone Skydivers",
+      "baseline_formula": " PLANK*0.7",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Plank Raises",
+      "baseline_formula": " PLANK*0.3",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Side Plank Raises",
+      "baseline_formula": " PLANK*0.5",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "V Sit-ups",
+      "baseline_formula": " PLANK*0.4",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Two Point Plank",
+      "baseline_formula": " PLANK*0.15",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Unilateral Mountain Climbers",
+      "baseline_formula": " PLANK*0.2",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Ankle Taps",
+      "baseline_formula": " PLANK*0.8",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Crunches",
+      "baseline_formula": " PLANK*0.25",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Sit-Ups",
+      "baseline_formula": " PLANK*0.2",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Reverse Crunches",
+      "baseline_formula": " PLANK*0.1",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Supine Straight Leg Raises",
+      "baseline_formula": " PLANK*0.2",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Dead Bugs",
+      "baseline_formula": " PLANK*0.3",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Bear Crawl (square)",
+      "baseline_formula": " PLANK*1.5",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Bear Crawl (distance)",
+      "baseline_formula": " PLANK*1.0",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Mountain Climbers",
+      "baseline_formula": " PLANK*0.4",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Inchworms",
+      "baseline_formula": " PLANK*0.6",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Chest Taps",
+      "baseline_formula": " PLANK*0.8",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Sit Throughs",
+      "baseline_formula": " PLANK*0.2",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Prone Torso Rotations (Knees Bent)",
+      "baseline_formula": " PLANK*0.2",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Downward Dog To Single Leg Kickbacks",
+      "baseline_formula": " PLANK*0.2",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Plank Toe Touches",
+      "baseline_formula": " PLANK*0.1",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Runners Lunge To Kick",
+      "baseline_formula": " SQUATS *0.2",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Prone Swimmers",
+      "baseline_formula": " PLANK*0.4",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  },
+  {
+      "exercise": "Side Step Lunges",
+      "baseline_formula": " SQUATS *1.5",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "squats"
+  },
+  {
+      "exercise": "Standing Alternating Toe Touches",
+      "baseline_formula": " PLANK* 0.4",
+      "fsc_formula": "(10/FSC)*5",
+      "type": "plank"
+  }
+]
